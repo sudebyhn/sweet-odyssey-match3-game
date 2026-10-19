@@ -1,0 +1,19 @@
+SWEET ODYSSEY - KOLAY BASLATMA
+
+1. ZIP dosyasinin tamamini bir klasore cikarin.
+2. sweet-odyssey klasorunu acin.
+3. OYUNU_BASLAT.bat dosyasina cift tiklayin.
+4. Ilk kurulum bitince oyun tarayicida otomatik acilir.
+
+Alternatif: klasorde terminal acip python app.py yazin.
+
+Python 3.11 veya uzeri gerekir.
+Ilk acilista paket kurulumu icin internet gerekir.
+Node.js, Docker veya PostgreSQL kurmaniz gerekmez.
+Oynarken acilan terminal penceresini acik birakin.
+Tarayici acilmazsa terminalde yazan http://127.0.0.1:8000
+(veya secilen baska port) adresine gidin.
+
+Kayitlar: data/sweet-odyssey.db
+Ayrintili aciklamalar: README.md
+Test sonuclari: docs/DOGRULAMA.md
